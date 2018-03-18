@@ -9,6 +9,10 @@
   "author": "Neo Chang",
   "license": "ISC",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neo725/GoogleShortenerUrl.git"
+  },
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.2",
